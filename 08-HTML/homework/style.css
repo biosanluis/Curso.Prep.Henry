@@ -1,0 +1,40 @@
+h1 {
+    color: cadetblue;
+}
+
+img {
+    width: 400px;
+}
+
+.divClass {
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background: cornsilk;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    display: block;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0;
+}
+
+#thirdDiv {
+    padding: 50px;
+    border: 5px solid cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
